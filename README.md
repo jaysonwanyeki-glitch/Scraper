@@ -402,7 +402,7 @@ Built by [Jayson Wanyeki](https://github.com/jaysonwanyeci-glitch). MIT licensed
 
 ## Contact
 
-- **GitHub**: [@jaysonwanyeki](https://github.com/jaysonwanyeki)
-- **Project**: [google-maps-scraper-kit](https://github.com/jaysonwanyeki/google-maps-scraper-kit)
+- **GitHub**: [@jaysonwanyeci-glitch](https://github.com/jaysonwanyeci-glitch)
+- **Project**: [google-maps-scraper-kit](https://github.com/jaysonwanyeci-glitch/google-maps-scraper-kit)
 
 If this kit saved you time, consider starring the repo on GitHub! ⭐
