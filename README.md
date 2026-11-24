@@ -3,8 +3,8 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Google Maps Scraper Kit: free local Google Maps scraper for lead generation, driven by Claude Code" width="100%">
 </p><p align="center">
-  <a href="https://github.com/JaysoonWanyeki/google-maps-scraper-kit/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/JaysoonWanyeki/google-maps-scraper-kit?style=flat-square&color=0b1220"></a>
-  <a href="https://github.com/JaysoonWanyeki/google-maps-scraper-kit/commits/master"><img alt="Last commit" src="https://img.shields.io/github/last-commit/JaysoonWanyeki/google-maps-scraper-kit?style=flat-square&color=334155"></a>
+  <a href="https://github.com/jaysonwanyeci-glitch/google-maps-scraper-kit/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/jaysonwanyeci-glitch/google-maps-scraper-kit?style=flat-square&color=0b1220"></a>
+  <a href="https://github.com/jaysonwanyeci-glitch/google-maps-scraper-kit/commits/master"><img alt="Last commit" src="https://img.shields.io/github/last-commit/jaysonwanyeci-glitch/google-maps-scraper-kit?style=flat-square&color=334155"></a>
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-0b1220?style=flat-square"></a>
   <img alt="Runs 100% locally" src="https://img.shields.io/badge/runs-100%25%20local-059669?style=flat-square">
   <img alt="No API keys" src="https://img.shields.io/badge/API%20keys-none-334155?style=flat-square">
@@ -62,7 +62,7 @@ Requires Python 3.9 or newer and Google Chrome (or Chromium, Edge or Brave). The
 Open a terminal (macOS: Terminal; Windows: PowerShell) and run these four lines:
 
 ```bash
-git clone https://github.com/JaysoonWanyeki/google-maps-scraper-kit.git
+git clone https://github.com/jaysonwanyeci-glitch/google-maps-scraper-kit.git
 cd google-maps-scraper-kit
 python3 scripts/engine.py start
 python3 scripts/scrape.py "coffee shops in Austin TX" 30.2672 -97.7431 --depth 2
@@ -331,8 +331,8 @@ For large requests, the agent flags the risk and suggests proxies, then proceeds
 
 If this kit saved you an afternoon of copy-pasting, a star helps the next person find it.
 
-<a href="https://www.star-history.com/#JaysoonWanyeki/google-maps-scraper-kit&Date">
-  <img src="https://api.star-history.com/svg?repos=JaysoonWanyeki/google-maps-scraper-kit&type=Date" alt="Star history chart for JaysoonWanyeki/google-maps-scraper-kit" width="600">
+<a href="https://www.star-history.com/#jaysonwanyeci-glitch/google-maps-scraper-kit&Date">
+  <img src="https://api.star-history.com/svg?repos=jaysonwanyeci-glitch/google-maps-scraper-kit&type=Date" alt="Star history chart for jaysonwanyeci-glitch/google-maps-scraper-kit" width="600">
 </a>
 
 <details>
@@ -380,7 +380,7 @@ If the engine runs in Docker, the script rebuilds and restarts it so the new ver
 On Windows without Git Bash, run the same update by hand:
 
 ```bash
-git pull https://github.com/JaysoonWanyeki/google-maps-scraper-kit.git master
+git pull https://github.com/jaysonwanyeci-glitch/google-maps-scraper-kit.git master
 py scripts/engine.py restart
 ```
 
@@ -392,11 +392,11 @@ Coming from kit 1.x? The same command moves you to the own engine, and your old 
 
 ## Support
 
-Found a bug? [Open an issue](https://github.com/JaysoonWanyeki/google-maps-scraper-kit/issues/new/choose) with the command you ran and the error. Issues are for problems with the kit. Run your own scrapes with the quick start above; requests like "find me hotels in Hamburg" are closed without action. Contributions: [CONTRIBUTING.md](CONTRIBUTING.md). Security reports: [SECURITY.md](SECURITY.md).
+Found a bug? [Open an issue](https://github.com/jaysonwanyeci-glitch/google-maps-scraper-kit/issues/new/choose) with the command you ran and the error. Issues are for problems with the kit. Run your own scrapes with the quick start above; requests like "find me hotels in Hamburg" are closed without action. Contributions: [CONTRIBUTING.md](CONTRIBUTING.md). Security reports: [SECURITY.md](SECURITY.md).
 
 ## License
 
-Built by [Jayson Wanyeki](https://github.com/JaysoonWanyeki). MIT licensed. Third-party components: [CREDITS.md](CREDITS.md).
+Built by [Jayson Wanyeki](https://github.com/jaysonwanyeci-glitch). MIT licensed. Third-party components: [CREDITS.md](CREDITS.md).
 
 ---
 
